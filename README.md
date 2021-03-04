@@ -37,7 +37,7 @@ Create a `SavingsAccount`. A `SavingsAccount` is an `Account` but it also has th
 - Constructors that follow the rules from `Account` but also take a starting interest rate as another parameter.
 - `setInterestRate` which takes a `double` and changes the interest rate
 - `getInterestRate` which returns the current interest rate
-- `advanceTime` overrides the `Account , advanceTime`. Does the same funcationlity as the parent method, and also increases the balance based on the interest rate. Use newBalance = balance(e^(interestRate*yearsOldAccountIs)) for your formula.
+- `advanceTime` overrides the `Account advanceTime`. Does the same funcationlity as the parent method, and also increases the balance based on the interest rate. Use newBalance = balance(e^(interestRate*yearsOldAccountIs)) for your formula.
 
 ## Part D: `User` Class
 
